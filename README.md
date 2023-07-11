@@ -1,2 +1,3 @@
-# bozo_ui
+# bozo-ui
+
 UI for Bozo-Framework
